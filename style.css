@@ -1,6 +1,13 @@
 body {
-    background: aliceblue;
+    background: rgb(180, 213, 243);
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    font-style: italic;
-}
+    }
+    h1{
+        margin: auto;
+        font-style: italic;
+        background-color: rgb(180, 213, 243);
+        box-sizing: border-box;
+        width: 1200px;
+        padding: 20px;
+            }
