@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(180, 213, 243);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    width: 900px;
+    margin: auto;
+    }
+.write {
+    background-color: beige;
+    width: 900px;
+    height: 1000px;
+    padding-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+}
+.headnav {
+    overflow: hidden;
+    background-color: gray;
+    width: 900px;
+    margin: auto;
+    font-size: 25pt;
+    height: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: block;
+}
